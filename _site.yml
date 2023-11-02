@@ -19,4 +19,4 @@ navbar:
       href: https://pubmed.ncbi.nlm.nih.gov/?term=jennifer+osei&filter=years.2018-2022&sort=date
 output:
   html_document:
-    theme: cerulean
+    theme: darkly
