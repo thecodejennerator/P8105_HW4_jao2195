@@ -1,0 +1,60 @@
+---
+title: "Minority Research Initiative - The Osei Lab"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
+---
+
+<style type="text/css">
+  body{
+  font-size: 16pt;
+}
+</style>
+
+## <font size="5"> About Me </font> 
+</center> ![C'est Moi !](image/Jennifer Osei yay.jpg){ width=50% }
+</center>
+
+# About Me
+Hello! My name is Jennifer A. Osei ! 
+I born and raised in Buffalo, New York (the second largest city in New York, next to New York City). It is very close to Toronto, Canada.
+
+My parents and family are from Accra, Ghana in West Africa and to this day I am not to sure why they choose one of the coldest places in the United States to call home but many years later we are still here! :) 
+
+I grew up with wonderful Ghanaian foods and dishes that I cannot imagine living without, such as
+Kontomire (pronounced: kon-TOME-er-aye), Fufu, and of course, Jollof Rice, just to name a few. I grew up in a home where education and knowledge were highly valued. We enjoy learning and teaching each other in out day to day. I developed interests in music, nature, teaching, math and science in fun and easy ways to teach kids of all backgrounds, especially problem solving and coding. 
+ 
+##  <font size="5"> Academics </font> 
+I graduated from Cornell University (Ithaca, NY) in 2014 in Biological Sciences with a concentration in Computational Biology. My love and fascination for the usefulness and applicability of coding and mathematics motivated me to dive in to mathematics more. After graduation, I completed the Harvard University Summer Program in Computational Biology and Biostatistics in 2015. 
+
+Currently, I attend Columbia University in the City of New York and I am working towards my 
+MS in Biostatistics. 
+ 
+
+
+
+
+##  <font size="5"> Research Interests </font> 
+
+Race and Disease <br><br>
+- Uterine Fibroid (Prevalence in African American Women) <br><br>
+- Ovarian Cancer Prevalance BRCA 1/ BRCA2 (Prevalance in Askenazi Jewish Women) <br><br>
+
+Environmental Exposures
+--Endocrine Disruptors 
+--Water Quality 
+
+##  <font size="5"> Research Publications </font> 
+
+ 1. 2020, Clinical, Nature - Journal of Prostate Cancer and Prostatic Diseases - PubMed PMID: 31700145 <br><br>
+ 2. 2020, Clinical, Journal of Geriatric Oncology - PubMed PMID: 31351823 <br><br>
+3. 2020, Clinical, Journal of Urology - PubMed PMID: 32302622 <br><br>
+4. 2020, Clinical, Journal of Endourology - PubMed PMID: 32631086 <br><br>
+5. 2021, Clinical, Journal of Endourology - PubMed PMID: 32664741 <br><br>
+6. 2021, Clinical, Journal of Urology - PubMed PMID: 32891639 <br><br>
+7. 2019, Basic Sciences, Journal of Neuropharmacology - PubMed PMID: 30195586 <br><br>
+8. 2019, Clinical, Journal of Urology - PubMed PMID: 31188729 <br><br>
+9. 2018, Basic Sciences, Expert Opinion Biological Therapy - PubMed  PMID: 29873258 <br><br>
+
