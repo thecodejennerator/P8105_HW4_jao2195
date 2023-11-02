@@ -1,0 +1,22 @@
+name: "Yay internet!"
+output_dir: "."
+navbar:
+  title: "Home"
+  left:
+    - text: "Resume"
+      href: resume.html
+    - text: "Dashboard"
+      href: dashboard.html
+    - icon: fa-envelope fa-lg
+      href: mailto:jao2195@cumc.columbia.edu
+    - icon: fa-github fa-lg
+      href: https://github.com/thecodejennerator/
+    - icon: fa-tags
+      href: https://www.hsph.harvard.edu/biostatistics/diversity/summer-program/participants-postbacs/2015-participants/
+    - icon: fa-star
+      href: http://georgetowncomunidad.blogspot.com/2010/03/gcsa-is-proud-to-announce.html
+    - icon: fa-flask
+      href: https://pubmed.ncbi.nlm.nih.gov/?term=jennifer+osei&filter=years.2018-2022&sort=date
+output:
+  html_document:
+    theme: cerulean
