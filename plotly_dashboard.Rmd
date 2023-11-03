@@ -14,10 +14,9 @@ library(p8105.datasets)
 library(viridis)
 ```
 
-Column {data-width=650}
 -----------------------------------------------------------------------
 
-### Chart A - Barplot
+### Chart A - Bar Plot
 
 ```{r, echo = FALSE}
 #options
@@ -79,7 +78,6 @@ ggplotly(insta_barplot)
 ```
 
 
-Column {data-width=350}
 -----------------------------------------------------------------------
 
 ### Chart B - Box Plot
@@ -111,11 +109,11 @@ frequency_data <- instacart_pd %>%
 # Create a line plot
 myline = ggplot(frequency_data, aes(x = add_to_cart_order, y = frequency, color = aisle)) +
   geom_line() +
-  scale_fill_viridis_c(option = "plasma") +
+  scale_fill_viridis_c() +
   labs(
-    title = "Frequency of add_to_cart_order",
-    x = "add_to_cart_order",
-    y = "Frequency"
+    title = "Frequency of Add to Cart Order by Aisle",
+    x = "Add to Cart Order",
+    y = "Frequency / Number Added to Cart"
   ) + theme(legend.position = "bottom") 
 
 ggplotly(myline)

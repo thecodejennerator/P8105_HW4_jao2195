@@ -1,5 +1,5 @@
 ---
-title: "Resume"
+title: "Academic and Professional Experiences"
 output: 
   html_document:
     toc: true
@@ -7,4 +7,30 @@ output:
     theme: cerulean
 ---
 
-<iframe src="Resume_Jennifer A. Osei_October 2023_3.html" style="width:100%; height:600px;" frameborder="0"></iframe>
+
+##  <font size="4"> Academic Experience: Education  </font> 
+Cornell University <br>
+Ithaca, NY, USA <br>
+B.S. Biological Sciences <br> <br>
+
+Columbia University in the City of New York <br>
+New York, NY, USA <br>
+M.S. Biostatistics <br> 
+
+
+## <font size="4"> Professional Experiences: Research Publications </font> 
+
+ 1. 2020, Clinical, Nature - Journal of Prostate Cancer and Prostatic Diseases - PubMed PMID: 31700145 <br>
+ 2. 2020, Clinical, Journal of Geriatric Oncology - PubMed PMID: 31351823 <br>
+3. 2020, Clinical, Journal of Urology - PubMed PMID: 32302622 <br>
+4. 2020, Clinical, Journal of Endourology - PubMed PMID: 32631086 <br>
+5. 2021, Clinical, Journal of Endourology - PubMed PMID: 32664741 <br>
+6. 2021, Clinical, Journal of Urology - PubMed PMID: 32891639 <br>
+7. 2019, Basic Sciences, Journal of Neuropharmacology - PubMed PMID: 30195586 <br>
+8. 2019, Clinical, Journal of Urology - PubMed PMID: 31188729 <br>
+9. 2018, Basic Sciences, Expert Opinion Biological Therapy - PubMed  PMID: 29873258 <br>
+
+
+##  <font size="4"> Research Interest  </font> 
+Racial Disparities & Disease <br>
+Environmental Exposures
