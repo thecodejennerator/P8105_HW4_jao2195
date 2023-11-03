@@ -6,11 +6,13 @@ navbar:
     - text: "Resume"
       href: resume.html
     - text: "Dashboard"
-      href: dashboard.html
+      href: plotly_dashboard.html
     - icon: fa-envelope fa-lg
       href: mailto:jao2195@cumc.columbia.edu
     - icon: fa-github fa-lg
       href: https://github.com/thecodejennerator/
+    - icon: fa-link
+      href: https://www.linkedin.com/in/jennifer-a-osei-02286144/
     - icon: fa-tags
       href: https://www.hsph.harvard.edu/biostatistics/diversity/summer-program/participants-postbacs/2015-participants/
     - icon: fa-star
@@ -19,4 +21,4 @@ navbar:
       href: https://pubmed.ncbi.nlm.nih.gov/?term=jennifer+osei&filter=years.2018-2022&sort=date
 output:
   html_document:
-    theme: darkly
+    theme: cerulean
