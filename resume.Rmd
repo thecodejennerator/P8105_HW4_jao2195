@@ -4,6 +4,7 @@ output:
   html_document:
     toc: true
     toc_float: true
-    theme: simplex 
+    theme: cerulean
 ---
 
+<iframe src="Resume_Jennifer A. Osei_October 2023_3.html" style="width:100%; height:600px;" frameborder="0"></iframe>
